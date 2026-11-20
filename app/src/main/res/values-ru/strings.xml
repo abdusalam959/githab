@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Release Tracker</string>
+    <string name="add_repo">Добавить репозиторий</string>
+    <string name="repo_hint">владелец/репозиторий</string>
+    <string name="check_updates">Проверить обновления</string>
+    <string name="download">Скачать</string>
+    <string name="changelog">Список изменений</string>
+    <string name="no_repos">Репозитории ещё не добавлены</string>
+    <string name="new_release">Доступен новый релиз!</string>
+    <string name="language">Язык</string>
+    <string name="delete">Удалить</string>
+    <string name="cancel">Отмена</string>
+    <string name="add">Добавить</string>
+    <string name="checking">Проверка…</string>
+    <string name="latest_version">Последняя: %s</string>
+</resources>
